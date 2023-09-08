@@ -22,6 +22,23 @@
     Month List: Click on the "May" label to open the month list. Click on any month in the list to quickly navigate to that month.
 
     Responsive Design: The calendar's responsive design ensures that it looks and functions well on various devices. Test it on desktops, tablets, and mobile phones.
+## Unit Testing
+
+The Calendar Web Application includes unit testing to ensure the correctness and reliability of its core functions. We use the following libraries and tools for unit testing:
+
+- **Mocha:** A JavaScript test framework for running unit tests.
+
+- **Chai:** A JavaScript assertion library that provides clean and readable assertions for your tests.
+
+- **JSDOM:** A library that provides a simulated DOM environment for running tests in a Node.js environment.
+
+To run the unit tests, follow these steps:
+
+1.Install the required dependencies:
+  ```bash
+  npm install
+2. Run the tests:
+   npm test
 
 # Demo
 
