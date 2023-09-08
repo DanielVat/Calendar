@@ -38,9 +38,8 @@ The Calendar Web Application includes unit testing to ensure the correctness and
 
 To run the unit tests, follow these steps:
 
-1.Install the required dependencies:
+# Install the required dependencies:
   ```bash
   npm install
-2. Run the tests:
-   npm test
+# Run the tests:npm test 
 
